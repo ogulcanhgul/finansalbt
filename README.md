@@ -6,9 +6,6 @@
 
 Hava Durumu uygulaması. Veriler [OpenWeatherMap](https://openweathermap.org/), public api üzerinden alınıyor.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Get_it_on_F-Droid.svg/200px-Get_it_on_F-Droid.svg.png" style="float: left; padding-right: 10px;">](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/200px-Google_Play_Store_badge_EN.svg.png" style="float: left; padding-right: 10px;" height="70">](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie)
-
 
 
 ## Screenshots
