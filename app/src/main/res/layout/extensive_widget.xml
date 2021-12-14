@@ -60,7 +60,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            tools:text="Wind: 0 m/s"
+            tools:text="Rüzgar: 0 m/s"
             android:textColor="@color/text_light"
             android:textSize="16sp" />
 
@@ -92,7 +92,7 @@
             android:id="@+id/widgetSunset"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="Sunset: 00:00"
+            tools:text="Günbatımı: 00:00"
             android:textColor="@color/text_light"
             android:textSize="16sp" />
 

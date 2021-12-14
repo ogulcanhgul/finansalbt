@@ -2,26 +2,23 @@
 <!-- Do not delete any blank lines -->
 <resources>
     <!-- Settings/Units -->
-    <string name="settings_title_units">Units</string>
-    <string name="setting_lengthUnits">Length units</string>
-    <string name="setting_speedUnits">Speed units</string>
-    <string name="setting_tempUnits">Temperature units</string>
-    <string name="setting_showTempAsInteger">Show temperature only as an integer</string>
-    <string name="setting_pressureUnits">Pressure units</string>
-    <string name="setting_auto_detect_location">Detect Location</string>
-    <string name="setting_differentiateDaysByTint">Differentiate Days with Color</string>
+    <string name="settings_title_units">Üniteler</string>
+    <string name="setting_lengthUnits">Boyut ünitesi</string>
+    <string name="setting_speedUnits">Hız ünitesi</string>
+    <string name="setting_tempUnits">Sıcaklık Ünitesi</string>
+    <string name="setting_showTempAsInteger">Sıcaklığı sadece tamsayı olarak göster</string>
+    <string name="setting_pressureUnits">Basınç ünitesi</string>
+    <string name="setting_differentiateDaysByTint">Günleri renklerle ayır</string>
 
-    <string name="setting_unit_mps">Meters per second (m/s)</string>
-    <string name="setting_unit_kph">Kilometers per hour (kph)</string>
-    <string name="setting_unit_mph">Miles per hour (mph)</string>
-    <string name="setting_unit_bft">Beaufort wind scale (bft)</string>
-    <string name="setting_unit_kn">Knots (kn)</string>
+    <string name="setting_unit_mps">Metre bölü saniye (m/sn)</string>
+    <string name="setting_unit_kph">Kilometre bölü saat (km/s)</string>
+    <string name="setting_unit_kn">Knot (kn)</string>
     <string name="setting_unit_Celsuis">Celsius</string>
     <string name="setting_unit_Fahrenheit">Fahrenheit</string>
     <string name="setting_unit_Kelvin">Kelvin</string>
 
-    <string name="setting_unit_mm">Millimeters (mm)</string>
-    <string name="setting_unit_in">Inches (in)</string>
+    <string name="setting_unit_mm">Milimetre (mm)</string>
+    <string name="setting_unit_in">İnç (in)</string>
 
     <string name="setting_unit_hpa">hPa/mBar</string>
     <string name="setting_unit_kpa">kPa</string>
@@ -38,10 +35,10 @@
     <string name="pressure_unit_mmhg">mm Hg</string>
     <string name="pressure_unit_inhg">in Hg</string>
 
-    <string name="uvi_no_info">No Info</string>
-    <string name="uvi_low">Low</string>
-    <string name="uvi_moderate">Moderate</string>
-    <string name="uvi_high">High</string>
-    <string name="uvi_very_high">Very High</string>
-    <string name="uvi_extreme">Extreme</string>
+    <string name="uvi_no_info">Bilgi yok</string>
+    <string name="uvi_low">Düşük</string>
+    <string name="uvi_moderate">Uygun</string>
+    <string name="uvi_high">Yüksek</string>
+    <string name="uvi_very_high">Çok yüksek</string>
+    <string name="uvi_extreme">Aşırı yüksek</string>
 </resources>

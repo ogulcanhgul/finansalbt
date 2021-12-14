@@ -36,30 +36,30 @@
                 android:id="@+id/itemDescription"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="No data"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                tools:text="Veri Yok" />
 
             <TextView
                 android:id="@+id/itemWind"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                tools:text="Wind: 0 m/s"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                tools:text="Rüzgar: 0 m/s" />
 
             <TextView
                 android:id="@+id/itemPressure"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Pressure: 0 hpa"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                tools:text="Basınç: 0 hpa" />
 
             <TextView
                 android:id="@+id/itemHumidity"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="Humidity: 0 %"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                tools:text="Nem: 0 %" />
         </LinearLayout>
 
         <TextView
